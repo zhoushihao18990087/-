@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a5e5b09-e49a-4f44-972e-b53539ee196c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../group/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../group/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/androidTest/java/com/example/login222/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/java/com/example/login222/LoginForgetActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/java/com/example/login222/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/java/com/example/login222/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/java/com/example/login222/SQLRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/java/com/example/login222/bean/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/java/com/example/login222/database/UserDBHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/java/com/example/login222/util/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/java/com/example/login222/util/ViewUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/layout/activity_login_forget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/layout/activity_s_q_l_read.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/layout/item_dropdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/layout/item_select.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/app/src/test/java/com/example/login222/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/androidTest/java/com/example/login222/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/java/com/example/login222/LoginForgetActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/java/com/example/login222/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/java/com/example/login222/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/java/com/example/login222/SQLRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/java/com/example/login222/bean/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/java/com/example/login222/database/UserDBHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/java/com/example/login222/util/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/java/com/example/login222/util/ViewUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/layout/activity_login_forget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/layout/activity_s_q_l_read.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/layout/item_dropdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/layout/item_select.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/app/src/test/java/com/example/login222/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zhuce2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/androidTest/java/com/example/login222/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/java/com/example/login222/LoginForgetActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/java/com/example/login222/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/java/com/example/login222/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/java/com/example/login222/SQLRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/java/com/example/login222/bean/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/java/com/example/login222/database/UserDBHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/java/com/example/login222/util/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/java/com/example/login222/util/ViewUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/layout/activity_login_forget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/layout/activity_s_q_l_read.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/layout/item_dropdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/layout/item_select.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/app/src/test/java/com/example/login222/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zy/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1loelHBINszyv667MSB4EWPIh8T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a5e5b09-e49a-4f44-972e-b53539ee196c" name="Default Changelist" comment="" />
+      <created>1608268020120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608268020120</updated>
+    </task>
+    <servers />
+  </component>
+</project>

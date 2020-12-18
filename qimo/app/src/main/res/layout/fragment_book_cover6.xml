@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/qiaodan" />
+
+    <TextView
+        android:id="@+id/tv_book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="正版包邮 人生十二法则 乔丹·彼得森 12条法则解决人生80%的不如意带你摆脱混乱生活励志书籍 正能量 成功畅销书排行榜心理学书籍"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

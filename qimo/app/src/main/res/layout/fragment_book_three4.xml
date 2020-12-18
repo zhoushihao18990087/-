@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mao2" />
+
+    <TextView
+        android:id="@+id/tv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="以《月亮和六便士》《人生的枷锁》等长篇小说闻名于世的英国作家毛姆，在短篇小说创作上也是一流的。1951年，他将自己创作的91个短篇故事汇集成三卷本的《短篇小说全集》，并亲自为每一卷撰写了序言，1963年，英国企鹅出版公司将其以四卷本形式重新刊印，此后该版本被多次再版，并被翻译成各种文字，在世界各地广为流传。
+
+这套中文版“毛姆短篇小说全集”依据的正是企鹅1963年的版本，乃是国内首次完整推出这位伟大作家的所有短篇佳作。"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

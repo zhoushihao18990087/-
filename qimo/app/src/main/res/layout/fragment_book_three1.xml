@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/dongye2" />
+
+    <TextView
+        android:id="@+id/tv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="包装情况：包装的很好，收到的都很好 印刷质量：不多说看图，都是精装本，太喜欢了。里面还有书签，还多送了一本书，种**这家宝藏店铺 纸张品质：看图，真的很不错"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

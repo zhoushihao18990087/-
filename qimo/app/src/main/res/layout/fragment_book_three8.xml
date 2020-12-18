@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/wujun1" />
+
+    <TextView
+        android:id="@+id/tv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="对大多数人来讲，获得偶然的成功并不难，难的是逐渐让成功从偶然变成必然。有些人满足于自己某件事做得快、做得漂亮，而大格局的人追求的则是重复的成功和可叠加式的进步。
+
+在本书中，吴军博士为你总结了提升格局的五个维度：位置、方向、方法、步伐和节奏。任何人，不论起点高低，只要能认清自己的位置，找准方向，用正确的方法做事，提高进步的速度，同时把握好节奏，几年后就会看到一个格局比今天大很多的自己，一个让自己感到不枉此生的自己。"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

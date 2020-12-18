@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/dongye1" />
+
+    <TextView
+        android:id="@+id/tv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="东野圭吾恶意系列全套10本大合集 恶意毕业沉睡的森林新参者祈祷落幕时只差一个谎言谁杀了她我杀了他加贺探案集悬疑推理侦探小说"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

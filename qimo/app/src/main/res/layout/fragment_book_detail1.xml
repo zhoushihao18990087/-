@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/zhanghao1" />
+
+    <TextView
+        android:id="@+id/tv_book_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="东21篇够勇敢的故事，上亿人点赞的237幅手机摄影作品，10组共同完成的创意插画，延续 你是最好的自己系列 的精彩，带你踏上一段新的勇气之旅。这是一本等着你来跟我们共同完成的书，开创手写互动书先河，你既是读者，也是参与者，你可以在互动页上记录书中最爱的句子，写下你藏在心里的故事，回答我们在书中为你留下的问题，来成为这本书的作者之一!"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

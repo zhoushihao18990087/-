@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/weier" />
+
+    <TextView
+        android:id="@+id/tv_book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="正版 文明的故事 全11卷共15册 威尔杜兰特 传记经济军事政治宗教体育音乐科技经典 畅销 历史的教训 课外阅读 理想国 人文社科类"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

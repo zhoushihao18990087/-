@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/chunshang" />
+
+    <TextView
+        android:id="@+id/tv_book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="春上村树代表作 挪威的森林+且听风吟+海边的卡夫卡(3册)村上春树的书作品集全套都市情感书籍世界文学名著经典外国畅销小说"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>
