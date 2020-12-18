@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67ce3b91-581b-49f0-827f-087db6fe3971" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../EighthApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EighthApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EighthApplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EighthApplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EighthApplication/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EighthApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EighthApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../EighthApplication/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/androidTest/java/com/example/eleventhapplication/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/androidTest/java/com/example/eleventhapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/RecyclerGridActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/RecyclerGridActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/RecyclerLinearActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/RecyclerLinearActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/RecyclerStaggeredActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/RecyclerStaggeredActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/adapter/RecyclerGridAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/adapter/RecyclerGridAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/adapter/RecyclerLinearAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/adapter/RecyclerLinearAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/adapter/RecyclerStaggeredAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/adapter/RecyclerStaggeredAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/bean/GoodsInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/bean/GoodsInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/widget/RecyclerExtras.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/widget/RecyclerExtras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/widget/SpacesItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/java/com/example/eleventhapplication/widget/SpacesItemDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/cainixihuan.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/cainixihuan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dapaijiadao.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dapaijiadao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian01.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian02.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian03.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian04.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian05.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian06.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian07.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian08.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian09.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian11.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian12.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian13.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian14.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian15.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/dian15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_03.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_05.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_06.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_07.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_08.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_09.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/pic_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_03.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_05.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/public_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt01.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt02.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt03.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt04.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt05.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt06.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt07.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt08.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt09.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt11.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt12.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt13.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt14.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt15.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt17.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt18.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt19.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt20.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt21.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt22.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt23.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/skirt23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/trip_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/trip_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/trip_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/trip_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/trip_03.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/trip_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/trip_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/drawable/trip_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/activity_recycler_grid.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/activity_recycler_grid.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/activity_recycler_linear.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/activity_recycler_linear.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/activity_recycler_staggered.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/activity_recycler_staggered.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/item_grid.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/item_grid.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/item_linear.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/item_linear.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/item_staggered.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/layout/item_staggered.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/app/src/test/java/com/example/eleventhapplication/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/app/src/test/java/com/example/eleventhapplication/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EleventhApplication/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../EleventhApplication/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/java/com/example/fifthapplication/bean/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/java/com/example/fifthapplication/bean/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/java/com/example/fifthapplication/database/UserDBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/java/com/example/fifthapplication/database/UserDBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/java/com/example/fifthapplication/util/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/java/com/example/fifthapplication/util/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/java/com/example/fifthapplication/util/ViewUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/java/com/example/fifthapplication/util/ViewUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swich_background_off.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swich_background_off.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swich_background_on.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swich_background_on.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swich_circle_off.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swich_circle_off.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swich_circle_on.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swich_circle_on.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swith_background_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swith_background_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swith_circle_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/drawable/swith_circle_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/layout/item_dropdown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/layout/item_dropdown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/layout/item_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/app/src/main/res/layout/item_select.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FifthApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../FifthApplication/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForthActivity/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForthActivity/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForthActivity/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForthActivity/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForthActivity/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../ForthActivity/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NinthApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../NinthApplication/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondApplication/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeventhApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeventhApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeventhApplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeventhApplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeventhApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../SeventhApplication/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthActivity/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthActivity/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/androidTest/java/com/example/tenthapplication/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/androidTest/java/com/example/tenthapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/BannerPagerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/BannerPagerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/SearchResultActvity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/SearchResultActvity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/SearchViewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/SearchViewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabFirstActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabFirstActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabFragmentActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabFragmentActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabLayoutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabLayoutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabSecondActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabSecondActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabThirdActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/TabThirdActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/adapter/GoodsPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/adapter/GoodsPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/constant/ImageList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/constant/ImageList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/fragment/BookDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/fragment/BookDetailFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/util/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/util/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/util/MenuUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/util/MenuUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/util/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/util/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/widget/BannerPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/widget/BannerPager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/widget/PagerIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/java/com/example/tenthapplication/widget/PagerIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/banner_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/indicator_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/indicator_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/item_toolbar3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/item_toolbar3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/item_toolbar4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable-v24/item_toolbar4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/book_cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/book_cover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_app.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_app.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_quit.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_quit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_refresh.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_refresh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/ic_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/icon_point_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/icon_point_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/icon_point_n.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/icon_point_n.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/item_toolbar1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/item_toolbar1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/item_toolbar2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/item_toolbar2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/null_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/null_point.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/red_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/red_point.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_first_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_first_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_first_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_first_pressed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_first_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_first_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_second_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_second_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_second_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_second_pressed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_second_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_second_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_third_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_third_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_third_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_third_pressed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_third_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/tab_third_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/toolbar_image_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/toolbar_image_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/toolbar_text_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/drawable/toolbar_text_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_banner_pager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_banner_pager.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_search_result_actvity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_search_result_actvity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_search_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_search_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_tab_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/activity_tab_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/banner_pager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/banner_pager.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/fragment_book_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/fragment_book_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/fragment_book_evaluate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/fragment_book_evaluate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/fragment_tab_first.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/fragment_tab_first.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/search_list_auto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/layout/search_list_auto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/menu/menu_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/menu/menu_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/menu/menu_null.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/menu/menu_null.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/menu/menu_overflow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/menu/menu_overflow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/menu/menu_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/menu/menu_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/xml/searchable.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/main/res/xml/searchable.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/app/src/test/java/com/example/tenthapplication/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/app/src/test/java/com/example/tenthapplication/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TenthApplication/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../TenthApplication/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThirdApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../ThirdApplication/gradlew" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lp7vUf3PI6Gs9Lld7n3sqPoeuv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67ce3b91-581b-49f0-827f-087db6fe3971" name="Default Changelist" comment="" />
+      <created>1608282409343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608282409343</updated>
+    </task>
+    <servers />
+  </component>
+</project>
